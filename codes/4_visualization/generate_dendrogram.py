@@ -17,7 +17,7 @@ from scipy.cluster.hierarchy import linkage
 print(os.getcwd())
 print(plotly.__version__)
 
-# before doing this, loging to plotty @ https://plot.ly with email: C00222141@louisiana.edu username:Titli pwd:Titli@123 and generate API_key
+# before doing this, loging to plotty @ https://plot.ly with email: xxx@xxx.edu username:xxx pwd:xxx and generate API_key
 plotly.tools.set_credentials_file(username='Titli',api_key='DYo3p5aNbKfX5cHX6CFo')
 
 
